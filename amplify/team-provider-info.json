@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-towdriveradminvue3-dev-145224-authRole",
+      "UnauthRoleArn": "arn:aws:iam::547842662755:role/amplify-towdriveradminvue3-dev-145224-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::547842662755:role/amplify-towdriveradminvue3-dev-145224-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-towdriveradminvue3-dev-145224-deployment",
+      "UnauthRoleName": "amplify-towdriveradminvue3-dev-145224-unauthRole",
+      "StackName": "amplify-towdriveradminvue3-dev-145224",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:547842662755:stack/amplify-towdriveradminvue3-dev-145224/27138a30-feae-11ed-964a-02d1fc55926e",
+      "AmplifyAppId": "d36liltd2cygsb"
+    }
+  }
+}
